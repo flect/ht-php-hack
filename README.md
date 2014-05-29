@@ -1,8 +1,3 @@
 ht-php-hack
 ===========
-
-Notes
-==================
-
-This project use buildpack.  
-see [heroku-buildpack-hhvm](https://github.com/hhvm/heroku-buildpack-hhvm)
+Sample project that use Hack(Facebook Hacklang) for Heroku training.
