@@ -1,3 +1,3 @@
 ht-php-hack
 ===========
-Sample project that use Hack(Facebook Hacklang) for Heroku training.
+Sample project that use Hacklang(Facebook Hack) for Heroku training.
